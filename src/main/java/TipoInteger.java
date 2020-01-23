@@ -1,4 +1,4 @@
-
+//Tipo Primitivo Integer
 public class TipoInteger {
     public static void main(String[] args) {
 
