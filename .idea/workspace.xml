@@ -43,7 +43,14 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
-  <component name="RunManager" selected="Application.TipoInteger">
+  <component name="RunManager" selected="Application.BaseDecimalHexaOcta">
+    <configuration name="BaseDecimalHexaOcta" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BaseDecimalHexaOcta" />
+      <module name="HolaMundo" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="CaracteresEspeciales" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="CaracteresEspeciales" />
       <module name="HolaMundo" />
@@ -53,13 +60,6 @@
     </configuration>
     <configuration name="ClaseScanner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ClaseScanner" />
-      <module name="HolaMundo" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ReglasDefinicionVariable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ReglasDefinicionVariable" />
       <module name="HolaMundo" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -81,11 +81,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BaseDecimalHexaOcta" />
         <item itemvalue="Application.TipoInteger" />
         <item itemvalue="Application.TareaLibro" />
         <item itemvalue="Application.ClaseScanner" />
         <item itemvalue="Application.CaracteresEspeciales" />
-        <item itemvalue="Application.ReglasDefinicionVariable" />
       </list>
     </recent_temporary>
   </component>
@@ -100,7 +100,7 @@
       <option name="presentableId" value="Default" />
       <updated>1579795338602</updated>
       <workItem from="1579795351096" duration="10032000" />
-      <workItem from="1579812259676" duration="129000" />
+      <workItem from="1579812259676" duration="585000" />
     </task>
     <servers />
   </component>
