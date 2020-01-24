@@ -45,16 +45,30 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
-  <component name="RunManager" selected="Application.OperadoresAritmeticos">
-    <configuration name="ConversionTiposVariables" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ConversionTiposVariables" />
+  <component name="RunManager" selected="Application.OperadoresUnarios">
+    <configuration name="OperadoresAritmeticos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OperadoresAritmeticos" />
       <module name="HolaMundo" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OperadoresAritmeticos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="OperadoresAritmeticos" />
+    <configuration name="OperadoresAsignacion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OperadoresAsignacion" />
+      <module name="HolaMundo" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OperadoresUnarios" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OperadoresUnarios" />
+      <module name="HolaMundo" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TareaRectangulo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TareaRectangulo" />
       <module name="HolaMundo" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -67,27 +81,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TipoBoolean" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TipoBoolean" />
-      <module name="HolaMundo" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TipoChar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TipoChar" />
-      <module name="HolaMundo" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.OperadoresUnarios" />
+        <item itemvalue="Application.OperadoresAsignacion" />
+        <item itemvalue="Application.TareaRectangulo" />
         <item itemvalue="Application.OperadoresAritmeticos" />
         <item itemvalue="Application.TiendaLibros" />
-        <item itemvalue="Application.ConversionTiposVariables" />
-        <item itemvalue="Application.TipoBoolean" />
-        <item itemvalue="Application.TipoChar" />
       </list>
     </recent_temporary>
   </component>
@@ -102,7 +102,7 @@
       <option name="presentableId" value="Default" />
       <updated>1579795338602</updated>
       <workItem from="1579795351096" duration="10032000" />
-      <workItem from="1579812259676" duration="8256000" />
+      <workItem from="1579812259676" duration="10407000" />
     </task>
     <servers />
   </component>
@@ -122,22 +122,22 @@
       <screen x="62" y="0" width="1304" height="768" />
     </state>
     <state x="494" y="139" key="FileChooserDialogImpl/62.0.1304.768@62.0.1304.768" timestamp="1579812393334" />
-    <state width="1261" height="204" key="GridCell.Tab.0.bottom" timestamp="1579880708612">
+    <state width="1261" height="204" key="GridCell.Tab.0.bottom" timestamp="1579882985769">
       <screen x="62" y="0" width="1304" height="768" />
     </state>
-    <state width="1261" height="204" key="GridCell.Tab.0.bottom/62.0.1304.768@62.0.1304.768" timestamp="1579880708612" />
-    <state width="1261" height="204" key="GridCell.Tab.0.center" timestamp="1579880708611">
+    <state width="1261" height="204" key="GridCell.Tab.0.bottom/62.0.1304.768@62.0.1304.768" timestamp="1579882985769" />
+    <state width="1261" height="204" key="GridCell.Tab.0.center" timestamp="1579882985768">
       <screen x="62" y="0" width="1304" height="768" />
     </state>
-    <state width="1261" height="204" key="GridCell.Tab.0.center/62.0.1304.768@62.0.1304.768" timestamp="1579880708611" />
-    <state width="1261" height="204" key="GridCell.Tab.0.left" timestamp="1579880708611">
+    <state width="1261" height="204" key="GridCell.Tab.0.center/62.0.1304.768@62.0.1304.768" timestamp="1579882985768" />
+    <state width="1261" height="204" key="GridCell.Tab.0.left" timestamp="1579882985768">
       <screen x="62" y="0" width="1304" height="768" />
     </state>
-    <state width="1261" height="204" key="GridCell.Tab.0.left/62.0.1304.768@62.0.1304.768" timestamp="1579880708611" />
-    <state width="1261" height="204" key="GridCell.Tab.0.right" timestamp="1579880708612">
+    <state width="1261" height="204" key="GridCell.Tab.0.left/62.0.1304.768@62.0.1304.768" timestamp="1579882985768" />
+    <state width="1261" height="204" key="GridCell.Tab.0.right" timestamp="1579882985769">
       <screen x="62" y="0" width="1304" height="768" />
     </state>
-    <state width="1261" height="204" key="GridCell.Tab.0.right/62.0.1304.768@62.0.1304.768" timestamp="1579880708612" />
+    <state width="1261" height="204" key="GridCell.Tab.0.right/62.0.1304.768@62.0.1304.768" timestamp="1579882985769" />
     <state x="215" y="27" key="SettingsEditor" timestamp="1579812406297">
       <screen x="62" y="0" width="1304" height="768" />
     </state>
